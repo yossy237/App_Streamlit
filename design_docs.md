@@ -52,3 +52,5 @@ Archivo debe estar localmente presente
 selección de columnas para buscar
 caché de consultas frecuentes
 exportar resultados (CSV / Excel)
+filtros por fechas, idioma, país, periodo histórico
+deploy en internet vía Streamlit Cloud o Render
