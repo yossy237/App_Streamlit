@@ -1,6 +1,6 @@
-streamlit==1.31.0
-pandas==2.1.4
-altair==5.2.0
-plotly==5.18.0
-protobuf==4.25.3
-numpy==1.26.4
+streamlit
+pandas
+altair
+plotly
+protobuf
+numpy
